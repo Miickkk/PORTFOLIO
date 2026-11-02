@@ -1,7 +1,7 @@
 import "./App.css";
 import petcareImage from "./assets/petcare.png";
 import geekImage from "./assets/lojageek.png";
-import jurisImage from "./assets/jurisai.png";
+import jurisImage from "./assets/jurisAI.png";
 
 function App() {
   const projects = [
