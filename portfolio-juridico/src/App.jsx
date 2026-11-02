@@ -1,4 +1,3 @@
-
 import "./App.css";
 import petcareImage from "./assets/petcare.png";
 import geekImage from "./assets/lojageek.png";
@@ -42,7 +41,6 @@ function App() {
     "React",
     "JavaScript",
     "HTML",
-    "CSS",
     "Angular",
     "Flutter",
     "Firebase",
